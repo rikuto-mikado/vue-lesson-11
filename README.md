@@ -3,7 +3,9 @@
 ## What I Learned
 -
 -
+-
 
 ## Challenges
+-
 -
 -
